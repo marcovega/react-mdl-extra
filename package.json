@@ -2,9 +2,9 @@
   "name": "react-mdl-extra",
   "version": "1.4.2",
   "description": "React MDL Extra Components",
-  "main": "lib/index.js",
-  "module": "es/index.js",
-  "jsnext:main": "es/index.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "jsnext:main": "src/index.js",
   "scripts": {
     "clean": "rimraf lib dist es",
     "start": "npm run storybook",
